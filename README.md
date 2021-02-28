@@ -1,6 +1,6 @@
 # Scripts de referência para TCC em Engenharia ambiental na UFF. 
 
-####A Monografia consistiu em uma tentativa falha de unificar as principais fontes de dados ambientais climaticos do mundo a partir de seus metadados em um banco de dados MongoDB NoSQL. A partir dos metadados é possível criar visualização parcial dos dados via protocolo opendap. Foi elaborado um draft em aplicação flask com backend em python estritamente com os dados da NOAA para defesa. 
+#### A Monografia consistiu em uma tentativa falha de unificar as principais fontes de dados ambientais climaticos do mundo a partir de seus metadados em um banco de dados MongoDB NoSQL. A partir dos metadados é possível criar visualização parcial dos dados via protocolo opendap. Foi elaborado um draft em aplicação flask com backend em python estritamente com os dados da NOAA para defesa. 
 
 Pacotes utilizados: dask,earthengine-api, pillow, xarray, folium, ee, matplotlib, netCDF4, ftplib, geojson, pandas e pymongo
 
